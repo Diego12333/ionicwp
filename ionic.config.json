@@ -1,0 +1,7 @@
+{
+  "name": "ionicwp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
